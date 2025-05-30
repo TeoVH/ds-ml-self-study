@@ -11,13 +11,20 @@ Each file corresponds to a daily hands-on session, focusing on essential Python 
 - User input with `input()`
 - String formatting using f-strings
 - Conditional statements: `if`, `elif`, `else`
+- Lists and basic list operations
+- `for` and `while` loops
+- Functions and return values
+- Basic modularization and code reuse
+- Mini-projects: calculators, menu display, GPA evaluation, temperature conversion
 
 ## Structure
 
 | Day   | Content                                                                 |
 |-------|-------------------------------------------------------------------------|
 | Day 1 | Data types, variables, arithmetic operations, string formatting. Mini-store calculator project. |
-| Day 2 | User input, conditional logic, comparison operators. Age-based pricing system project.          |
+| Day 2 | User input, conditional logic, comparison operators. Age-based pricing system project. |
+| Day 3 | Lists and loops (`for`, `while`). Password check and GPA calculator mini-project. |
+| Day 4 | Functions, reusable logic, GPA calculator with functions, temperature converter. |
 
 ---
 
@@ -25,6 +32,8 @@ Each file corresponds to a daily hands-on session, focusing on essential Python 
 
 - [`day1.py`](./day1.py) – Introduction to data types and a basic interactive store simulation.
 - [`day2.py`](./day2.py) – Conditional logic and a simple age-based pricing decision system.
+- [`day3.py`](./day3.py) – Practice with lists, loops, a password system, and GPA calculator.
+- [`day4.py`](./day4.py) – Functions for greetings, menu display, average classification, and temperature conversion.
 
 ---
 
@@ -40,3 +49,12 @@ Each file corresponds to a daily hands-on session, focusing on essential Python 
    ```bash
    python day1.py
    ```
+
+## Learning Resources
+
+This module uses the following learning resources:
+
+- Automate the Boring Stuff with Python by Al Sweigart
+- Short and simple tutorial videos on YouTube
+- ChatGPT for on-demand guidance and code review
+
