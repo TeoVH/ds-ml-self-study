@@ -15,7 +15,8 @@ Each file corresponds to a daily hands-on session, focusing on essential Python 
 - `for` and `while` loops
 - Functions and return values
 - Basic modularization and code reuse
-- Mini-projects: calculators, menu display, GPA evaluation, temperature conversion
+- Dictionaries and dictionary operations
+- Mini-projects: calculators, menu display, GPA evaluation, temperature conversion, contact book
 
 ## Structure
 
@@ -25,6 +26,7 @@ Each file corresponds to a daily hands-on session, focusing on essential Python 
 | Day 2 | User input, conditional logic, comparison operators. Age-based pricing system project. |
 | Day 3 | Lists and loops (`for`, `while`). Password check and GPA calculator mini-project. |
 | Day 4 | Functions, reusable logic, GPA calculator with functions, temperature converter. |
+| Day 5 | Dictionaries: creation, access, update, delete; inventory and contact book mini-project. |
 
 ---
 
@@ -34,6 +36,7 @@ Each file corresponds to a daily hands-on session, focusing on essential Python 
 - [`day2.py`](./day2.py) – Conditional logic and a simple age-based pricing decision system.
 - [`day3.py`](./day3.py) – Practice with lists, loops, a password system, and GPA calculator.
 - [`day4.py`](./day4.py) – Functions for greetings, menu display, average classification, and temperature conversion.
+- [`day5.py`](./day5.py) – Dictionaries and contact book mini-project.
 
 ---
 
