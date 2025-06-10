@@ -17,7 +17,9 @@ Each file corresponds to a daily hands-on session, focusing on essential Python 
 - Basic modularization and code reuse
 - Dictionaries and dictionary operations
 - Combined loops and conditions
-- Mini-projects: calculators, menu display, GPA evaluation, temperature conversion, contact book, ATM simulation
+- Modules and imports (`import`, `from ... import`)
+- Exception handling with `try`, `except`, `raise`
+- Mini-projects: calculators, menu display, GPA evaluation, temperature conversion, contact book, ATM simulation, advanced calculator
 
 ## Structure
 
@@ -29,6 +31,7 @@ Each file corresponds to a daily hands-on session, focusing on essential Python 
 | Day 4 | Functions, reusable logic, GPA calculator with functions, temperature converter. |
 | Day 5 | Dictionaries: creation, access, update, delete; inventory and contact book mini-project. |
 | Day 6 | Advanced control structures using combined loops and conditions. Password checker, filtered sum, ATM simulation mini-project. |
+| Day 7 | Modules and exceptions. Using built-in and user-defined modules, basic error handling, advanced calculator mini-project. |
 
 ---
 
@@ -40,6 +43,8 @@ Each file corresponds to a daily hands-on session, focusing on essential Python 
 - [`day4.py`](./day4.py) – Functions for greetings, menu display, average classification, and temperature conversion.
 - [`day5.py`](./day5.py) – Dictionaries and contact book mini-project.
 - [`day6.py`](./day6.py) – Advanced control flow: combined conditions, loop control, and ATM simulation mini-project.
+- [`day7.py`](./day7.py) – Modules and exceptions, math operations using standard and custom modules, advanced calculator project.
+- [`math_utils.py`](./math_utils.py) – User-defined module with basic arithmetic functions.
 
 ---
 
